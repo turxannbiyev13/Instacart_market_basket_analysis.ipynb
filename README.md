@@ -10,6 +10,11 @@ This project tackles real-world retail and e-commerce challenges by uncovering c
 * **Environment:** Google Colab
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
+## 📂 Dataset
+The original dataset used in this project is hosted externally due to file size constraints. You can access the data files here:
+
+[Download Instacart Dataset from Google Drive](https://drive.google.com/drive/folders/1-P3jBC0Vnm4Hu5gdkAVxTVki4c61vnfR?usp=drive_link)
+
 ## 🔍 Key Insights Discovered
 * **Peak Ordering Windows:** Core traffic is highly concentrated between **10:00 AM and 4:00 PM**. Weekday traffic peaks sharply in the morning, while weekend (Saturday) traffic forms a sustained afternoon plateau.
 * **Customer Purchasing Cycles:** The data reveals strong behavioral patterns with massive spikes at the **7-day (weekly routine)** and **30-day (monthly subscription/lapsed users)** marks.
